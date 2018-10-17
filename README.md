@@ -1,4 +1,4 @@
-# AceKing-Game
+# AceKing Game
 Try to find the Ace among 3 shuffled cards.
 <br/>                                             
 Run and play here: 

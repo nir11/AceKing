@@ -2,7 +2,7 @@
 Try to find the Ace among 3 shuffled cards.
 <br/>                                             
 Run and play here: 
-https://codepen.io/nir11/project/editor/XzqzGj
+https://codepen.io/nir11/project/full/XzqzGj/
 <br/>                                             
                                                     
 <div style="width:100%;">                                                  
